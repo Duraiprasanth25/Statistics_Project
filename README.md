@@ -47,7 +47,7 @@ The Atliqo Bank project aims to identify and analyze the target market for launc
 ##### **Feature Engineering**
 - Created new features to better define the target market segment.
 
-📌 **[View Phase 1 Notebook](#)**
+📌 **[View Phase 1 Notebook](https://github.com/Duraiprasanth25/Statistics_Project/blob/main/Notebooks/phase_1_atliqo_bank.ipynb)**
 
 #### **Insights**
 - Customers aged **18-25** account for **26%** of the customer base.
@@ -74,7 +74,7 @@ The Atliqo Bank project aims to identify and analyze the target market for launc
 ##### **A/B Testing**
 - Compared performance of **old credit card (control group)** vs **new credit card (test group)**.
 
-📌 **[View Phase 2 Notebook](#)**
+📌 **[View Phase 2 Notebook](https://github.com/Duraiprasanth25/Statistics_Project/blob/main/Notebooks/phase_2_atliqo_bank.ipynb)**
 
 #### **Results**
 - **Z-score**: 2.74
