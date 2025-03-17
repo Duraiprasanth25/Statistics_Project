@@ -10,14 +10,13 @@ The Atliqo Bank project aims to identify and analyze the target market for launc
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Project Phases](#project-phases)
-   - [Phase 1: Data Collection, Cleaning, and Analysis](#phase-1-data-collection-cleaning-and-analysis)
-   - [Phase 2: Statistical Analysis and Hypothesis Testing](#phase-2-statistical-analysis-and-hypothesis-testing)
-3. [Outcomes](#outcomes)
-4. [Tools & Technologies Used](#tools--technologies-used)
-5. [How to Use This Project](#how-to-use-this-project)
-6. [Future Work](#future-work)
-7. [Contributors](#contributors)
-8. [License](#license)
+   - [Phase 1: Data Collection, Cleaning, and Analysis](https://github.com/Duraiprasanth25/Statistics_Project/tree/main?tab=readme-ov-file#phase-1-data-collection-cleaning-and-analysis)
+   - [Phase 2: Statistical Analysis and Hypothesis Testing](https://github.com/Duraiprasanth25/Statistics_Project/tree/main?tab=readme-ov-file#phase-2-statistical-analysis-and-hypothesis-testing)
+3. [Outcomes](https://github.com/Duraiprasanth25/Statistics_Project/tree/main?tab=readme-ov-file#outcomes)
+4. [Tools & Technologies Used](https://github.com/Duraiprasanth25/Statistics_Project/tree/main?tab=readme-ov-file#tools--technologies-used)
+5. [How to Use This Project](https://github.com/Duraiprasanth25/Statistics_Project/tree/main?tab=readme-ov-file#how-to-use-this-project)
+6. [Future Work](https://github.com/Duraiprasanth25/Statistics_Project/tree/main?tab=readme-ov-file#future-work)
+7. [License](#https://github.com/Duraiprasanth25/Statistics_Project/tree/main?tab=readme-ov-filelicense)
 
 ---
 
